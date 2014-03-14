@@ -1,0 +1,22 @@
+# Gradle temporary files
+.gradle/
+target/
+.gradletasknamecache
+
+# Intellij IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IDEs output
+classes/
+out/
+
+#protbuf temp file
+.pbsrc
